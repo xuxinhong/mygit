@@ -9,7 +9,8 @@ namespace CodeTest
     {
         static void Main(string[] args)
         {
-            int x = 4;
+            int x = 4; int y = 5;
+
             
             Console.Write(" The value  is :"+((x>4)?99.0:9));
             Console.ReadLine();
