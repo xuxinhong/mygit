@@ -3,3 +3,5 @@ E:\.NET Demo\CodeTest\CodeTest\bin\Debug\CodeTest.pdb
 E:\.NET Demo\CodeTest\CodeTest\obj\Debug\CodeTest.csprojResolveAssemblyReference.cache
 E:\.NET Demo\CodeTest\CodeTest\obj\Debug\CodeTest.exe
 E:\.NET Demo\CodeTest\CodeTest\obj\Debug\CodeTest.pdb
+E:\mygit\CodeTest\CodeTest\obj\Debug\CodeTest.exe
+E:\mygit\CodeTest\CodeTest\obj\Debug\CodeTest.pdb
